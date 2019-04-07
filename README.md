@@ -1,1 +1,1 @@
-# LevelsofImmersionVR
+# LevelsOfImmersionVR
